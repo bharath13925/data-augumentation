@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.h5
+*.keras
+*.pth
+*.pt
+*.npy
+
+
+
+# Large files
+*.zip
+*.tar
