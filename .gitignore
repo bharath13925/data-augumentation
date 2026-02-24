@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+data/
+dataset/
+PetImages/
+News_dataset/
+fra-eng/
+
+# Models
+*.h5
+*.keras
+*.pth
+*.pt
+*.npy
+
+# Folders
+.vscode/
+Attendance_Project/
+DLBeginnerProject/
+preview/
+
+# Large files
+*.zip
+*.tar
